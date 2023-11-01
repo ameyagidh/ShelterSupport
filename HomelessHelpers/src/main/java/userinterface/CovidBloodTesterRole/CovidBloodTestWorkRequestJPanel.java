@@ -20,10 +20,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author ameyg
- */
 public class CovidBloodTestWorkRequestJPanel extends javax.swing.JPanel {
 
     JPanel userProcessContainer;
