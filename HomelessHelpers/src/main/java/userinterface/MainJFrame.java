@@ -14,10 +14,7 @@ import java.awt.CardLayout;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-/**
- *
- * @author rinki
- */
+
 public class MainJFrame extends javax.swing.JFrame {
 
     /**
