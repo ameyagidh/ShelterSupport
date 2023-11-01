@@ -12,10 +12,7 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.DiseaseAnalyzerRole.DiseaseAnalyzerWorkAreaJPanel;
 
-/**
- *
- * @author rinki
- */
+
 // Disease analyzer inherits from role
 public class DiseaseAnalyzerRole extends Role {
 
