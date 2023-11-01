@@ -9,10 +9,6 @@ import Business.Organization.Organization;
 import Business.Role.Role;
 import java.util.ArrayList;
 
-/**
- *
- * @author amey
- */
 public class HealthEnterprise extends Enterprise {
 
     public HealthEnterprise(String name) {
