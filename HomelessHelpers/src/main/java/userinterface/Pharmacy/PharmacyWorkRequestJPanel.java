@@ -23,10 +23,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author rinki
- */
+
 public class PharmacyWorkRequestJPanel extends javax.swing.JPanel {
 
     JPanel userProcessContainer;
