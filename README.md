@@ -1,4 +1,4 @@
-# Shelter Support
+# NGO Shelter Support
 
 ## Problem Statement:
 Every single night, more than 500,000 Americans find themselves without a home, which constitutes 0.2% of the US population. While the connection between housing and homelessness is commonly understood, the strong correlation between health and homelessness is often underestimated. Living on the streets or in crowded homeless shelters exposes individuals to extreme stress and subjects them to communicable diseases (e.g., TB, respiratory illnesses, flu, hepatitis, etc.), violence, malnutrition, and harsh weather conditions. We require a system that can facilitate proper healthcare facilities for homeless individuals.
