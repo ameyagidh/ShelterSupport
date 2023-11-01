@@ -23,10 +23,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author ameyg
- */
 public class DiseaseAnalyzerWorkRequestJPanel extends javax.swing.JPanel {
 
     JPanel userProcessContainer;
