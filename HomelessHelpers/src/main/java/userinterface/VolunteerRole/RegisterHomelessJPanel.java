@@ -26,10 +26,7 @@ import java.util.regex.Pattern;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-/**
- *
- * @author Keerthana
- */
+
 public class RegisterHomelessJPanel extends javax.swing.JPanel {
 
     /**
