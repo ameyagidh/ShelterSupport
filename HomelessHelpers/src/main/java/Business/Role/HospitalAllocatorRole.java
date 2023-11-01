@@ -12,10 +12,7 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.HospitalAllocatorRole.HospitalAllocatorWorkAreaJPanel;
 
-/**
- *
- * @author Keerthana
- */
+
 // Hospital Allocator inherits from role class
 public class HospitalAllocatorRole extends Role {
 
