@@ -9,10 +9,6 @@ import Business.Organization.Organization;
 import Business.Role.Role;
 import java.util.ArrayList;
 
-/**
- *
- * @author amey
- */
 public class TestingEnterprise extends Enterprise {
 
     public TestingEnterprise(String name) {
