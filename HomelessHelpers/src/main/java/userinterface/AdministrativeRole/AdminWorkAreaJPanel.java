@@ -4,10 +4,7 @@ import Business.Enterprise.Enterprise;
 import java.awt.CardLayout;
 import javax.swing.JPanel;
 
-/**
- *
- * @author rinki
- */
+
 public class AdminWorkAreaJPanel extends javax.swing.JPanel {
 
     JPanel userProcessContainer;
