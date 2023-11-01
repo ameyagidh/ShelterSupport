@@ -15,10 +15,7 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Keerthana
- */
+
 public class SendGridEmail {
     public static void sendMail(String email) throws IOException {
    Email from = new Email("lnu.ke@northeastern.edu");
