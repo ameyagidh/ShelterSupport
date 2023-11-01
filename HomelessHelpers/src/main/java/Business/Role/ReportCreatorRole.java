@@ -11,10 +11,7 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.report.ReportWorkAreaJPanel;
 
-/**
- *
- * @author Keerthana
- */
+
 // Report inherits from role
 public class ReportCreatorRole extends Role {
 
