@@ -12,10 +12,6 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.CovidBloodTesterRole.CovidBloodTestWorkAreaJPanel;
 
-/**
- *
- * @author rinki
- */
  // CovidBloodTesterRole inherits from Role
 public class CovidBloodTesterRole extends Role {
 
