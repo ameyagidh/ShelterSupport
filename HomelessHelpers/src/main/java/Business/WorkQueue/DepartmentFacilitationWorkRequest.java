@@ -7,10 +7,7 @@ package Business.WorkQueue;
 
 import Business.HomelessPerson;
 
-/**
- *
- * @author Keerthana
- */
+
 public class DepartmentFacilitationWorkRequest extends WorkRequest {
 
     private HomelessPerson homelessPerson;
