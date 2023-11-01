@@ -8,10 +8,6 @@ package Business.WorkQueue;
 import Business.HomelessPerson;
 import java.util.List;
 
-/**
- *
- * @author Keerthana
- */
 public class ReportGenerationWorkRequest extends WorkRequest {
 
     private HomelessPerson homelessPerson;
