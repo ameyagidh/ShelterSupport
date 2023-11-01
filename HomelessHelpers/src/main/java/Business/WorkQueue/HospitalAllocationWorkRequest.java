@@ -8,10 +8,7 @@ import Business.HomelessPerson;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Keerthana
- */
+
 public class HospitalAllocationWorkRequest extends WorkRequest {
 
     private HomelessPerson homelessPerson;
