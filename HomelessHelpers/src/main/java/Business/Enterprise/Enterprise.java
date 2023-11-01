@@ -9,10 +9,7 @@ import Business.Organization.Organization;
 import Business.Organization.OrganizationDirectory;
 import java.util.ArrayList;
 
-/**
- *
- * @author amey
- */
+
 public abstract class Enterprise extends Organization {
 
     private EnterpriseType enterpriseType;
