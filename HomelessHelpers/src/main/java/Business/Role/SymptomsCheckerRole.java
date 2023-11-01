@@ -12,10 +12,7 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.SymptomsCheckerRole.SymptomsCheckWorkAreaJPanel;
 
-/**
- *
- * @author Keerthana
- */
+
 // Symtoms inherits from role
 public class SymptomsCheckerRole extends Role {
 
