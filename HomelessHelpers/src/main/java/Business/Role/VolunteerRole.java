@@ -12,10 +12,7 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.VolunteerRole.VolunteerWorkAreaJPanel;
 
-/**
- *
- * @author Keerthana
- */
+
  // volunteerrole inherits from role
 public class VolunteerRole extends Role {
 
