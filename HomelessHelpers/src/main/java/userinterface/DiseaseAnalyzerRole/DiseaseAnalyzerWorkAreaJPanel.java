@@ -16,10 +16,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author ameyg
- */
+
 public class DiseaseAnalyzerWorkAreaJPanel extends javax.swing.JPanel {
 
     private JPanel userProcessContainer;
