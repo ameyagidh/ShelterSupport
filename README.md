@@ -56,11 +56,6 @@ All these participants are brought together under one digital ecosystem with rol
 - sendgrid API used for emails
 - itextpdf library used for text to pdf generation.
 
-## Team Members
-
-- Amey Bansod
-- Keerthana satheesh
-- Rinki Kundu
 
 ![Object Model](object-model.jpg)
 ![Class Diagram](class-diagram.jpg)
