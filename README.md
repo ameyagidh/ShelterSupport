@@ -1,61 +1,53 @@
 # Shelter Support
 
 ## Problem Statement:
-On a single night, more than half a million Americans go homeless, which represents 0.2% of the US population.
-The connection between housing and homelessness is generally intuitive, but the strong link between health and homelessness is often overlooked.
-Living on the street or in crowded homeless shelters is extremely stressful and made worse by being exposed to communicable disease 
-(e.g. TB, respiratory illnesses, flu, hepatitis, etc.), violence, malnutrition,and harmful weather exposure.
-We need a system which can help homeless people get proper health care facilities.
+Every single night, more than 500,000 Americans find themselves without a home, which constitutes 0.2% of the US population. While the connection between housing and homelessness is commonly understood, the strong correlation between health and homelessness is often underestimated. Living on the streets or in crowded homeless shelters exposes individuals to extreme stress and subjects them to communicable diseases (e.g., TB, respiratory illnesses, flu, hepatitis, etc.), violence, malnutrition, and harsh weather conditions. We require a system that can facilitate proper healthcare facilities for homeless individuals.
 
 ## Solution:
-Homeless Helpers is an application that helps homeless people to get better healthcasre facilities by diminishing the gap between homeless people and hospitals.
-Homeless people can get their treatment done in nearby hospital by only paying the amount they can afford.
-This application is expected to reduce the health issues faced by homeless people and help in minimizing the health risks.
-
+Homeless Helpers is a digital platform designed to improve healthcare access for homeless people by bridging the gap between them and hospitals. Homeless individuals can receive medical treatment at nearby hospitals while paying only what they can afford. This application aims to reduce the health challenges faced by homeless individuals and mitigate associated health risks.
 
 ## Approach:
+To address this issue, the following approach is proposed:
 
-First,the homeless person registers with us and adds any medical history he has. After successful registration hospital is allocated to the person.
-To detect the issue more precisely department is allocated. On the basis of department selected for a particular person symptoms are detected 
-and covid test is done.
-If the covid test is positive, person  is denied the entry to the hospital.
-If the covid test is negative, proper disease analysis is done to find the medical issue faced by the person.
-After successful diagnosis of disease and allocation of hospital Health report of the person is generated.
+1. Homeless individuals register on the platform and provide any available medical history.
+2. The system allocates a suitable hospital to the individual based on their location.
+3. The system assigns the individual to a specific department (e.g., ENT, Cardiology) for a more accurate diagnosis.
+4. Symptoms are assessed based on the chosen department, and a COVID-19 test is conducted.
+5. If the COVID-19 test is positive, the person is not admitted to the hospital.
+6. If the COVID-19 test is negative, a comprehensive medical evaluation is performed to identify the individual's health issues.
+7. Upon a successful diagnosis and hospital allocation, a health report for the individual is generated.
 
-
-
-## System Participants
-- NGO
-- Hospital 
+## System Participants:
+The system involves the following participants:
+- NGOs
+- Hospitals
 - Medicine Providers
-- Docotrs
-- Homeless Person
-- Volunteer
-- Assistant Docotr
+- Doctors
+- Homeless Persons
+- Volunteers
+- Assistant Doctors
 
-All these participants are brought together under one digital ecosystem with role based login authentication for management and access of their involved workflows.
+Each participant is granted role-based access for the management of their specific tasks and workflows within the digital ecosystem.
 
-## Features
+## Features:
+Key features of the system include:
+- Volunteer registration for homeless individuals.
+- Hospital allocation based on the individual's location preferences.
+- Department selection to investigate specific health issues.
+- Doctor assignment facilitated by an assistant.
+- Email alerts for registered individuals.
+- Request initiation for symptom assessment.
+- COVID-19 testing if symptoms suggest it.
+- Comprehensive medical diagnosis to rule out other health issues.
+- Generation of PDF health reports for future reference.
 
-- Volunteers register for homless person
-- Hosiptal is allocated tho the people based on their location preferences
-- Department(ENT, Heart) is there to investigate the exact issue.
-- Doctor is allocated by the assistant.
-- Sending alerts via emails for registered persons.
-- Raises request to detect the symptoms.
-- Covid test is done if the symptoms are positive.
-- Even if the covid test is negative, still the full diagnosis is done to make sure that person is not facing any other issue.
-- Pdf is generated with all the details for future refrences.
-
-
-## Tech Stack 💻 
-
+## Tech Stack 💻:
+The system is built using the following technologies:
 - Java
-- UI built using Java Swing
-- Maven library used to simplify new dependency injection
-- sendgrid API used for emails
-- itextpdf library used for text to pdf generation.
-
+- Java Swing for the user interface.
+- Maven library for simplified dependency management.
+- SendGrid API for email communication.
+- iTextPDF library for generating PDF documents.
 
 ![Object Model](object-model.jpg)
 ![Class Diagram](class-diagram.jpg)
