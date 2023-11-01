@@ -1,9 +1,6 @@
 package Business;
 
-/**
- *
- * @author amey
- */
+
 public class HomelessPerson {
 
     private int PersonID;
