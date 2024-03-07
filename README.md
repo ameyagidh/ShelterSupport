@@ -52,6 +52,6 @@ The system is built using the following technologies:
 - SendGrid API for email communication.
 - iTextPDF library for generating PDF documents.
 
-![Object Model](object-model.jpg)
-![Class Diagram](class-diagram.jpg)
-![Workflow Diagram](workflow-diagram.jpg)
+![object-model](https://github.com/ameyagidh/ShelterSupport/assets/65457905/4cbe89b6-06a1-41a8-be37-674f9b2f1b75)
+![class-diagram](https://github.com/ameyagidh/ShelterSupport/assets/65457905/b34e1698-c71a-41f9-8d33-f1b35a7890f4)
+![workflow-diagram](https://github.com/ameyagidh/ShelterSupport/assets/65457905/40ca4f58-4e2b-4180-ada1-5344d340dc87)
