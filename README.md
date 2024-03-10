@@ -4,6 +4,9 @@
 Every single  night, there are more than 500,000 Americans find themselves without a home, which constitutes 0.2% of the US population. While the connection between housing and homelessness is commonly understood, the strong correlation between health and homelessness is often underestimated. Living on the streets or in crowded homeless shelters exposes individuals to extreme stress and subjects them to communicable diseases (e.g., TB, respiratory illnesses, flu, hepatitis, etc.), violence, malnutrition, and harsh weather conditions. We require a system that can facilitate proper healthcare facilities for homeless individuals.
 
 ## Demo
+
+<img width="1496" alt="Screenshot 2024-03-07 at 1 18 19 AM" src="https://github.com/ameyagidh/ShelterSupport/assets/65457905/6fcc2767-da25-4229-9fb7-8582b0ee8619">
+
 ![8ic3v4](https://github.com/ameyagidh/ShelterSupport/assets/65457905/da7307f4-bda0-4e20-be98-6f2b64a6048a)
 
 ## Solution:
